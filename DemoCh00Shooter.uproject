@@ -18,6 +18,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
